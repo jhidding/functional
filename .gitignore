@@ -1,0 +1,8 @@
+dist
+htmlcov
+__pycache__
+.*.swp
+*.egg-info
+.coverage
+.mypy_cache
+
