@@ -1,4 +1,5 @@
 ![Python package](https://github.com/jhidding/functional/workflows/Python%20package/badge.svg)
+[![codecov](https://codecov.io/gh/jhidding/functional/branch/master/graph/badge.svg)](https://codecov.io/gh/jhidding/functional)
 
 # Functional programming utilities
 Some nifty tools in Python.
