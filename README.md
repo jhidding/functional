@@ -1,3 +1,5 @@
+![Python package](https://github.com/jhidding/functional/workflows/Python%20package/badge.svg)
+
 # Functional programming utilities
 Some nifty tools in Python.
 
